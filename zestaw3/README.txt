@@ -2,16 +2,14 @@ Zadanie 3.1
 
 Folder zawiera programy:
 	- arraylist.h (szablon ArrayList)
-	- main.cpp    (testy sprawdzajπce dzia≥anie interfejsu list)
-	- Makefile    (obs≥uga)
+	- main.cpp    (testy sprawdzaj≈°ce dzia≈Çanie interfejsu list)
+	- Makefile    (obs≈Çuga)
 
 ------------------
-INSTRUKCJA OBS£UGI
+INSTRUKCJA OBS≈ÅUGI
 
 Kompilacja: make
 Kompilacja i uruchamianie: make run
-Czyszczenie plikÛw wykonywalnych: make clean
+Czyszczenie plik√≥w wykonywalnych: make clean
 
 
-Autor:
-Jakub Straupisz
