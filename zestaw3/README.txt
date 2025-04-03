@@ -1,5 +1,3 @@
-Zadanie 3.1
-
 Folder zawiera programy:
 	- arraylist.h (szablon ArrayList)
 	- main.cpp    (testy sprawdzajšce działanie interfejsu list)
